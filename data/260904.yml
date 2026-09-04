@@ -1,28 +1,30 @@
 about:
-  description: A Python bindings generator for C/C++ libraries
+  description:
+  |
+    A Python bindings generator for C/C++ libraries
   license: BSD-2-Clause
   homepage: 
   head: f22caae
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T04:18:00Z
+  collectedAt: 2026-09-04T19:21:51Z
 timeline:
   created: 2024-02-09
   lastCommit: 2026-08-16
-  lastRelease: ?
+  lastRelease: 
 popularity:
   star: 62
   watcher: 5
   fork: 21
   release: 0
   contributor: 7
-  pullRequest: 6
+  pullRequest: 27
   issue: 86
 language:
   C: 11742260
   Python: 1409925
   C++: 10442
-totalLine: 13162627
+totalBytes: 13162627
 recent:
   last30d:
     since: 2026-08-05
@@ -32,6 +34,14 @@ recent:
     closedIssue: 2
     openIssue: 1
     commit: 5
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 3
+    openIssue: 1
+    commit: 16
   last90d:
     since: 2026-06-06
     release: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 24
     openIssue: 3
     commit: 147
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 17
+    openPR: 0
+    closedIssue: 52
+    openIssue: 4
+    commit: 200
+total:
+  release: 0
+  mergedPR: 21
+  openPR: 0
+  closedIssue: 78
+  openIssue: 8
+  commit: 2987
+---
+---
+
