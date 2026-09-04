@@ -7,7 +7,7 @@ about:
   head: f22caae
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:21:51Z
+  collectedAt: 2026-09-04T21:15:30Z
 timeline:
   created: 2024-02-09
   lastCommit: 2026-08-16
@@ -82,5 +82,68 @@ total:
   openIssue: 8
   commit: 2987
 ---
+path: /home/runner/.x-repo/github.com/Python-SIP/sip
+collectedAt: 2026-09-04T21:15:35Z
+loc:
+  C:
+    code: 249987
+    comments: 62852
+    blanks: 80003
+    files: 215
+  Autoconf:
+    code: 37638
+    comments: 3954
+    blanks: 12308
+    files: 155
+  Python:
+    code: 26400
+    comments: 3861
+    blanks: 10791
+    files: 111
+  ReStructuredText:
+    code: 9593
+    comments: 0
+    blanks: 4257
+    files: 16
+  CHeader:
+    code: 3723
+    comments: 1470
+    blanks: 1590
+    files: 82
+  Toml:
+    code: 78
+    comments: 11
+    blanks: 12
+    files: 19
+  Cpp:
+    code: 44
+    comments: 179
+    blanks: 22
+    files: 11
+  Batch:
+    code: 26
+    comments: 1
+    blanks: 8
+    files: 1
+  Makefile:
+    code: 9
+    comments: 7
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 564
+    blanks: 307
+    files: 3
+  Text:
+    code: 0
+    comments: 74
+    blanks: 0
+    files: 1
+total:
+  code: 327498
+  comments: 72973
+  blanks: 109302
+  files: 615
 ---
 
