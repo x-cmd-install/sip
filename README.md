@@ -41,11 +41,11 @@ Total: **327,498** lines of code across **579** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 1 | 0 | 2 | 0 | 1 |
-| last60d | 2026-07-13 | 0 | 1 | 0 | 4 | 0 | 13 |
-| 90d | 2026-06-13 | 0 | 1 | 0 | 4 | 0 | 25 |
-| last180d | 2026-03-15 | 0 | 1 | 0 | 9 | 0 | 72 |
-| 360d | 2025-09-16 | 0 | 3 | 0 | 24 | 2 | 147 |
+| 30d | 2026-08-12 | 0 | 1 | 0 | 2 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 1 | 0 | 4 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 1 | 0 | 4 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 1 | 0 | 9 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 3 | 0 | 24 | 2 | 0 |
 | last720d | 2024-09-21 | 0 | 18 | 0 | 53 | 3 | 200 |
 
 ## Improve this data
@@ -57,4 +57,4 @@ Install metadata for sip lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:36:52Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:29:55Z._
