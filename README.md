@@ -12,6 +12,18 @@ A Python bindings generator for C/C++ libraries
 x install sip
 ```
 
+## Code insight
+
+Total: **327,498** lines of code across **579** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 249,987 | 62,852 | 80,003 | 215 |
+| Autoconf | 37,638 | 3,954 | 12,308 | 155 |
+| Python | 26,400 | 3,861 | 10,791 | 111 |
+| ReStructuredText | 9,593 | 0 | 4,257 | 16 |
+| CHeader | 3,723 | 1,470 | 1,590 | 82 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Python-SIP/sip>
@@ -29,21 +41,12 @@ x install sip
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 2 | 0 | 1 |
-| 90d | 2026-06-12 | 0 | 1 | 0 | 4 | 0 | 25 |
-| 360d | 2025-09-15 | 0 | 3 | 0 | 24 | 2 | 147 |
-
-## Code size
-
-Total: **327,498** lines of code across **579** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 249,987 | 62,852 | 80,003 | 215 |
-| Autoconf | 37,638 | 3,954 | 12,308 | 155 |
-| Python | 26,400 | 3,861 | 10,791 | 111 |
-| ReStructuredText | 9,593 | 0 | 4,257 | 16 |
-| CHeader | 3,723 | 1,470 | 1,590 | 82 |
+| 30d | 2026-08-12 | 0 | 1 | 0 | 2 | 0 | 1 |
+| last60d | 2026-07-13 | 0 | 1 | 0 | 4 | 0 | 13 |
+| 90d | 2026-06-13 | 0 | 1 | 0 | 4 | 0 | 25 |
+| last180d | 2026-03-15 | 0 | 1 | 0 | 9 | 0 | 72 |
+| 360d | 2025-09-16 | 0 | 3 | 0 | 24 | 2 | 147 |
+| last720d | 2024-09-21 | 0 | 18 | 0 | 53 | 3 | 200 |
 
 ## Improve this data
 
@@ -54,4 +57,4 @@ Install metadata for sip lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:22:16Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:14Z._
