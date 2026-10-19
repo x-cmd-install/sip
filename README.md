@@ -31,22 +31,22 @@ Total: **354,569** lines of code across **623** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 63 · **Forks**: 21 · **Open issues**: 88 · **Contributors**: 8
+- **Stars**: 63 · **Forks**: 22 · **Open issues**: 88 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 0 · **Closed issues**: 83 · **Open issues**: 5 · **Commits**: 3007
+- **Releases**: 0 · **Merged PRs**: 22 · **Open PRs**: 1 · **Closed issues**: 83 · **Open issues**: 5 · **Commits**: 3007
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 0 | 2 | 0 | 8 |
-| last60d | 2026-08-19 | 0 | 1 | 0 | 2 | 0 | 20 |
-| 90d | 2026-07-20 | 0 | 1 | 0 | 6 | 0 | 32 |
-| last180d | 2026-04-21 | 0 | 1 | 0 | 7 | 0 | 76 |
-| 360d | 2025-10-23 | 0 | 2 | 0 | 20 | 1 | 153 |
-| last720d | 2024-10-28 | 0 | 14 | 0 | 53 | 3 | 220 |
+| 30d | 2026-09-19 | 0 | 0 | 1 | 2 | 0 | 8 |
+| last60d | 2026-08-20 | 0 | 1 | 1 | 2 | 0 | 18 |
+| 90d | 2026-07-21 | 0 | 1 | 1 | 6 | 0 | 31 |
+| last180d | 2026-04-22 | 0 | 1 | 1 | 7 | 0 | 74 |
+| 360d | 2025-10-24 | 0 | 2 | 1 | 20 | 1 | 152 |
+| last720d | 2024-10-29 | 0 | 14 | 1 | 53 | 3 | 220 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sip lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:28:39Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:36:47Z._
