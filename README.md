@@ -41,12 +41,12 @@ Total: **354,593** lines of code across **623** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 1 | 1 | 0 | 1 | 6 |
-| last60d | 2026-09-08 | 0 | 1 | 1 | 2 | 1 | 19 |
-| 90d | 2026-08-09 | 0 | 2 | 1 | 4 | 1 | 28 |
-| last180d | 2026-05-11 | 0 | 2 | 1 | 7 | 1 | 74 |
-| 360d | 2025-11-12 | 0 | 3 | 1 | 18 | 2 | 152 |
-| last720d | 2024-11-17 | 0 | 14 | 1 | 53 | 4 | 224 |
+| 30d | 2026-10-09 | 0 | 1 | 1 | 0 | 1 | 3 |
+| last60d | 2026-09-09 | 0 | 1 | 1 | 2 | 1 | 13 |
+| 90d | 2026-08-10 | 0 | 2 | 1 | 4 | 1 | 24 |
+| last180d | 2026-05-12 | 0 | 2 | 1 | 7 | 1 | 70 |
+| 360d | 2025-11-13 | 0 | 3 | 1 | 18 | 2 | 150 |
+| last720d | 2024-11-18 | 0 | 14 | 1 | 52 | 4 | 224 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sip lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:57:47Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:08:47Z._
