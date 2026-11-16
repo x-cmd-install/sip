@@ -31,7 +31,7 @@ Total: **354,726** lines of code across **624** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 64 · **Forks**: 23 · **Open issues**: 89 · **Contributors**: 11
+- **Stars**: 65 · **Forks**: 23 · **Open issues**: 89 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **354,726** lines of code across **624** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 2 | 0 | 0 | 1 | 8 |
-| last60d | 2026-09-16 | 0 | 2 | 0 | 2 | 1 | 18 |
-| 90d | 2026-08-17 | 0 | 3 | 0 | 2 | 1 | 28 |
-| last180d | 2026-05-19 | 0 | 3 | 0 | 7 | 1 | 70 |
-| 360d | 2025-11-20 | 0 | 4 | 0 | 17 | 2 | 154 |
-| last720d | 2024-11-25 | 0 | 15 | 0 | 52 | 4 | 230 |
+| 30d | 2026-10-17 | 0 | 2 | 0 | 0 | 1 | 8 |
+| last60d | 2026-09-17 | 0 | 2 | 0 | 2 | 1 | 18 |
+| 90d | 2026-08-18 | 0 | 3 | 0 | 2 | 1 | 28 |
+| last180d | 2026-05-20 | 0 | 3 | 0 | 7 | 1 | 70 |
+| 360d | 2025-11-21 | 0 | 4 | 0 | 17 | 2 | 154 |
+| last720d | 2024-11-26 | 0 | 15 | 0 | 52 | 4 | 230 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sip lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:26:21Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:29:47Z._
