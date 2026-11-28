@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:31:15Z
+  collectedAt: 2026-11-28T07:44:20Z
 timeline:
   created: 2024-02-09
   lastCommit: 2026-11-11
@@ -30,47 +30,47 @@ language:
 totalBytes: 14289789
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 1
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 6
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 3
     openPR: 0
     closedIssue: 2
     openIssue: 1
-    commit: 0
+    commit: 17
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 4
     openPR: 0
     closedIssue: 2
     openIssue: 1
-    commit: 0
+    commit: 28
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 4
     openPR: 0
     closedIssue: 6
     openIssue: 1
-    commit: 0
+    commit: 66
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 5
     openPR: 0
     closedIssue: 17
     openIssue: 2
-    commit: 0
+    commit: 147
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 10
     openPR: 0
@@ -86,7 +86,7 @@ total:
   commit: 3017
 ---
 path: /home/runner/.x-repo/github.com/Python-SIP/sip
-collectedAt: 2026-11-27T08:31:29Z
+collectedAt: 2026-11-28T07:44:31Z
 loc:
   C:
     code: 271533
